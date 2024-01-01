@@ -1,0 +1,16 @@
+Notes
+
+- User can see a list of hotels
+    - a list of hotels
+- User can book a hotel
+    - get the person information
+    - get credit card information
+- User can get a reservation ticket
+    - send an email to the user about the reservation
+
+
+
+Classes:
+- User
+- Hotel
+- Reservation
